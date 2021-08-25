@@ -1,3 +1,5 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.dataScience.jupyterServerURI": "local",
+    "python.pythonPath": "~/.virtualenvs/keras-env"
 }
