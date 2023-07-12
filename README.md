@@ -5,7 +5,11 @@
 
 ### Spaceship Titanic
 7-5-23: 1998 / 2526 with shallow linear net
+
 7-11-23: 557 / 2506 with hyperparameter tuning and dropout
 
 ### House Prices
 7-6-23: 1906/4556 with default tfdf regression
+
+### Digit Recognizer
+7-12-23: 1231 / 1613 with one convolution layer
