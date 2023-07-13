@@ -13,3 +13,5 @@
 
 ### Digit Recognizer
 7-12-23: 1231 / 1613 with one convolution layer
+
+7-13-23: 994 / 1608 with lenet structure
